@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { IMAGE_BASE_URL } from "../utils/request";
 import { ThumbUpIcon } from "@heroicons/react/outline";
-import { forwardRef } from "reat";
+import { forwardRef } from "react";
 
 const Thumbnail = forwardRef(({ result }, ref) => {
   return (
