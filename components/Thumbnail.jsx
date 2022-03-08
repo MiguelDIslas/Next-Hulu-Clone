@@ -1,3 +1,4 @@
+/* eslint-disable react/display-name */
 import Image from "next/image";
 import { IMAGE_BASE_URL } from "../utils/request";
 import { ThumbUpIcon } from "@heroicons/react/outline";
